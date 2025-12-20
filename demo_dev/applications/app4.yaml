@@ -18,7 +18,7 @@ spec:
       - values_dev.yaml
       parameters:
       - name: "container.image"
-        value: temson13/temson13
+        value: "temson13/temson13"
 
   project: default
   syncPolicy:
