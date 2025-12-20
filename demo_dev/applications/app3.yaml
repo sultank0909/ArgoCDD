@@ -11,7 +11,7 @@ spec:
     namespace: app3
   source:
     path   : "HelmCharts/MyChart2"
-    repoURL: "git@github.com:sultank0909/ArgoCDD.git"
+    repoURL: "git@github.com:Den4ug/argocd1.git"
     targetRevision: HEAD
     helm:
       valueFiles:
